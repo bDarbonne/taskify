@@ -16,7 +16,7 @@ setup(
     long_description='A Task runner done right',
     author='Benjamin Darbonne',
     author_email='dev.darbonne.ben@gmail.com',
-    url='https://github.com/ionelmc/python-taskify',
+    url='https://github.com/bDarbonne/taskify',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
