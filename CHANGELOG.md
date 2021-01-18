@@ -1,4 +1,5 @@
-# Change Log
 
-# 1.0.0 (01/18/2021)
-First Release
+# Changelog
+
+## 0.0.1 (2021-01-18)
+First release on PyPI.
